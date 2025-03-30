@@ -1,0 +1,16 @@
+.myButtons{
+    font-size: 3rem;
+    margin: 10px;
+    border: non;
+    border-radius: 50px;
+    padding: 10px 15px;
+    background-color: rgb(27, 139, 61);
+    color: white;
+    cursor: pointer;
+}
+.myButtons:hover{
+    background-color: rgb(40, 160, 76);
+}
+.myButtons:active{
+    background-color: rgb(13, 115, 38);
+}
